@@ -29,6 +29,6 @@ Data analysis and data visualization of data from a local oil extraction site to
 
 ## Results
 
-Analyses have shown that one of the possible causes of the odor is H`2`S emissions, the average values of which practically always exceed the odor.
+Analyses have shown that one of the possible causes of the odor is H2S emissions, the average values of which practically always exceed the odor.
 No considerations can be made for other chemicals due to unclear and precise information.
 
